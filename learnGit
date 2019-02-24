@@ -17,3 +17,5 @@ branch feature2  --1commit
 branch feature2  --2commit
 
 branch master  --1commit
+
+remote
